@@ -92,6 +92,5 @@ Edit these values directly in the script to explore other configurations.
 - Eigenvalues are clipped to $[0, \infty)$ after diagonalization to suppress negligible
   negative numerical noise (the true spectrum is provably non-negative).
 
-## License
-
-Add a license of your choice (e.g. MIT) here.
+## This file corresponds to the numerical implementation of 
+Grubišić, L., Lazar, M., & Muñoz, J. R. (2026). Schatten norm estimates for Lyapunov gramians in operator scales. Applied Mathematics Letters, 179, 109968. https://doi.org/10.1016/j.aml.2026.109968
